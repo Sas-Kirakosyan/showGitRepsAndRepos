@@ -1,0 +1,6 @@
+export const GET_START_REPO = "GET_START_REPO";
+export const GET_SUCCESS_REPO = "GET_SUCCESS_REPO";
+export const GET_FILED_REPO = "GET_FILED_REPO";
+export const GET_START_USER = "GET_START_USER";
+export const GET_SUCCESS_USER = "GET_SUCCESS_USER";
+export const GET_FILED_USER = "GET_FILED_USER";
